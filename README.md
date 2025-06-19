@@ -1,4 +1,6 @@
 Portal Sale Personal Data Only
+This repository bundles OCA modules `portal_sale_personal_data_only` and `portal_account_personal_data_only` so they can be installed together.
+
 
 Beta License: AGPL-3 OCA/sale-workflow Translate me on Weblate Try me on Runboat
 
